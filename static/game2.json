@@ -1,0 +1,1237 @@
+{
+    "Tool": "github.com/davyxu/tabtoy",
+    "Version": "2.8.11",
+    "MutiLanguageConfigs": [
+        {
+            "_id": "1",
+            "key": "卡尔马克斯的防御",
+            "en_us": "Defence of Karmax",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        },  {
+            "_id": "2",
+            "key": "这是一款塔防游戏，玩家需要建立和升级塔来抵御敌人的攻击。",
+            "en_us": "This is a tower defense game where players build and upgrade towers to fend off enemies.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "3",
+            "key": "在卡尔马克斯世界中，玩家面临越来越强大的敌人。通过战略性地放置防御塔，玩家创建强大的防线以保护自己的领地。您可以选择多种不同的塔和升级，制定最佳策略来阻止敌人突破。",
+            "en_us": "In the world of Karmax, players face increasingly powerful foes. By strategically placing defense towers, players create a robust line of defense to protect their territory. You can choose from various towers and upgrades, devising the best strategy to stop enemies from breaking through.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "4",
+            "key": "气球",
+            "en_us": "Balloon ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "5",
+            "key": "在这个简单的游戏中，玩家需要通过点击屏幕来让气球飞得更高。",
+            "en_us": "In this simple game, players need to tap the screen to make the balloon fly higher. ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "6",
+            "key": "气球游戏考验你的反应速度和技巧。每次点击都会让气球升得更高，但要小心避开障碍物，否则会导致失败。挑战自己设定的高分，看看你能飞多高！",
+            "en_us": "The balloon game tests your reflexes and skills. Each tap makes the balloon ascend higher, but be careful to avoid obstacles, or you'll fail. Challenge your set high score and see how high you can fly!",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "7",
+            "key": "太空袭击",
+            "en_us": "Space Attack ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "8",
+            "key": "这是一款射击游戏，玩家在太空中对抗敌舰，拯救宇宙。",
+            "en_us": "This is a shooting game where players fight enemy ships in space to save the universe.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "9",
+            "key": "在太空袭击游戏中，玩家将驾驶太空飞船，面对成群的敌舰。通过精准的射击和快速的反应，您可以打败敌人，保护宇宙的和平。升级您的武器和飞船，以应对越来越困难的挑战。",
+            "en_us": "In Space Attack, players pilot a spaceship facing swarms of enemy ships. With precise shooting and quick reflexes, you can defeat foes and protect the peace of the universe. Upgrade your weapons and ship to face increasingly difficult challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "10",
+            "key": "复活节狂奔",
+            "en_us": "Easter Rush",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "11",
+            "key": "在复活节狂奔中，玩家需要收集彩蛋并避开障碍物。",
+            "en_us": "In Easter Rush, players need to collect Easter eggs while dodging obstacles.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "12",
+            "key": "复活节狂奔是一个充满乐趣和挑战的跑酷游戏。玩家将在五彩斑斓的场景中奔跑，收集尽可能多的彩蛋。随着游戏的进展，难度逐渐提高，保持警惕以避免障碍物。",
+            "en_us": "Easter Rush is a fun and challenging endless runner game. Players run through colorful settings, collecting as many Easter eggs as possible. As the game progresses, the difficulty increases, so stay alert to avoid obstacles.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "13",
+            "key": "史诗雪人",
+            "en_us": "Epic Snowman",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "14",
+            "key": "这是一款益智游戏，玩家需要帮助雪人完成各种任务。",
+            "en_us": "This is a puzzle game where players help a snowman complete various tasks.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "15",
+            "key": "在史诗雪人游戏中，玩家将面临各种极具创意的难题。运用你的智慧帮助雪人克服障碍，收集配件来提升他的能力。每个关卡都提供了独特的挑战，确保你享受游戏的每一刻。",
+            "en_us": "In Epic Snowman, players encounter a variety of creatively designed puzzles. Use your wits to help the snowman overcome obstacles and collect accessories to enhance his abilities. Each level offers unique challenges, ensuring you enjoy every moment of the game.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "16",
+            "key": "螺旋坠落",
+            "en_us": "Helix Fall ",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "17",
+            "key": "玩家需要控制小球通过螺旋塔，避免碰到障碍。",
+            "en_us": "Players need to control a ball to fall through a helix tower while avoiding obstacles.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "18",
+            "key": "在螺旋坠落中，玩家将面临快速的反应挑战。您需要准确控制小球的下落，确保它穿过每一层而不碰到障碍。随着关卡的进展，游戏会变得更加复杂，增加了挑战的乐趣。",
+            "en_us": "In Helix Fall, players face rapid reaction challenges. You need to precisely control the ball's descent, ensuring it passes through each layer without colliding with obstacles. As levels progress, the game becomes more complex, adding to the fun of the challenge.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "19",
+            "key": "摩托X3M 5游泳池派对 ",
+            "en_us": "Moto X3M 5 Pool Party",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "20",
+            "key": "在这个摩托车特技游戏中，玩家需要完成各种挑战。",
+            "en_us": "In this motorcycle stunt game, players must complete various challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "21",
+            "key": "摩托X3M 5游泳池派对让玩家体验刺激的摩托车特技。通过充满挑战的赛道，玩家需要展示自身的驾驶技巧，完成各种令人兴奋的特技。在每个关卡中尽量争取获得更快的时间和更高的分数。",
+            "en_us": "Moto X3M 5 Pool Party allows players to experience thrilling motorcycle stunts. Through challenging tracks, players need to showcase their driving skills and perform exciting stunts. Aim for faster times and higher scores in each level.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "22",
+            "key": "飞行员训练",
+            "en_us": "Pilot Training",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "23",
+            "key": "玩家将接受飞行训练，学习如何驾驶飞机。",
+            "en_us": "Players will undergo flight training to learn how to pilot an aircraft.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "24",
+            "key": "在飞行员训练中，玩家将学习基础的飞行技巧和操作。通过一系列训练任务，从如何起飞到安全降落，您将掌握飞行的所有要素。掌握技巧后，您将准备好驾驶各种类型的飞机。",
+            "en_us": "在飞行员训练中，玩家将学习基础的飞行技巧和操作。通过一系列训练任务，从如何起飞到安全降落，您将掌握飞行的所有要素。掌握技巧后，您将准备好驾驶各种类型的飞机。",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "25",
+            "key": "滚动这个球",
+            "en_us": "Roll This Ball",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "26",
+            "key": "这是一个物理益智游戏，玩家要滚动球到达目标位置",
+            "en_us": "This is a physics puzzle game where players need to roll the ball to reach the target position.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "27",
+            "key": "在滚动这个球的游戏中，玩家必须运用物理原理来解决难题。每一关都有不同的挑战，玩家需要规划球的路径，确保它安全到达目标。随着关卡的提高，难度也逐渐增加。",
+            "en_us": "In Roll This Ball, players must utilize physics principles to solve puzzles. Each level presents different challenges where players need to plan the ball's path to ensure it safely reaches the target. As levels progress, the difficulty gradually increases.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "28",
+            "key": "短跑俱乐部",
+            "en_us": "Sprint Club",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "29",
+            "key": "这是一个竞速游戏，玩家需要与其他角色竞争，取得胜利。",
+            "en_us": "This is a racing game where players compete against other characters to win.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "30",
+            "key": "短跑俱乐部为玩家提供了激动人心的竞速体验。与其他角色并肩作战，展现你最好的速度和反应能力。通过不断的练习和挑战，提升自己的技能和速度，争取成为短跑之王！",
+            "en_us": "Sprint Club offers players an exciting racing experience. Compete alongside other characters, showcasing your best speed and reflexes. Through continuous practice and challenges, improve your skills and speed to become the champion of sprinting!",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "31",
+            "key": "超级马里奥",
+            "en_us": "Super Mario",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "32",
+            "key": "超级马里奥是一款经典的平台跳跃游戏，玩家帮助马里奥拯救公主。",
+            "en_us": "Super Mario is a classic platforming game where players help Mario rescue the princess.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "33",
+            "key": "在超级马里奥的世界中，玩家将踏上拯救公主的冒险旅程。通过跳跃、收集金币和击败敌人，玩家可以探索各种多彩的关卡。这个游戏充满了乐趣和挑战，让玩家沉浸在马里奥的奇妙世界中。",
+            "en_us": "In the world of Super Mario, players embark on an adventure to rescue the princess. By jumping, collecting coins, and defeating enemies, players can explore various colorful levels. This game is filled with fun and challenges that immerse players in Mario's magical world.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "34",
+            "key": "冲浪弓箭手",
+            "en_us": "Surfer Archers",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "35",
+            "key": "在这个游戏中，玩家扮演冲浪者利用弓箭射击敌人。",
+            "en_us": "In this game, players take on the role of surfers using bows to shoot down enemies.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "36",
+            "key": "冲浪弓箭手是一款结合了冲浪和射击的独特游戏体验。玩家在海浪上冲浪，同时用弓箭抵御来袭的敌人。灵活的操作和精准的射击是获得胜利的关键。",
+            "en_us": "冲浪弓箭手是一款结合了冲浪和射击的独特游戏体验。玩家在海浪上冲浪，同时用弓箭抵御来袭的敌人。灵活的操作和精准的射击是获得胜利的关键。",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "37",
+            "key": "解开绳索",
+            "en_us": "Untie the Rope",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "38",
+            "key": "在这个益智游戏中，玩家需要解开绳子以释放物体",
+            "en_us": "In this puzzle game, players need to untie ropes to release objects.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "39",
+            "key": "解开绳索是一个富有挑战性的益智游戏，要求玩家运用逻辑思维。每一关都有不同的绳结，玩家需要找到最有效的解法来释放被困的物体。随着每个关卡的推进，难度会逐渐增加。",
+            "en_us": "Untie the Rope is a challenging puzzle game that requires players to use logical thinking. Each level has different knots, and players must find the most effective solution to release trapped",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "40",
+            "key": "微型冲突",
+            "en_us": "Tiny Clash",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "41",
+            "key": "微型冲突是一款策略类游戏，玩家需要在小型战场上指挥自己的单位进行战斗。",
+            "en_us": "Tiny Clash is a strategy game where players command their units to battle on a miniature battlefield.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "42",
+            "key": "在微型冲突中，玩家可以选择不同的单位和战术，以应对各种挑战。游戏的每一场战斗都需要玩家灵活运用策略，才能获得胜利。随着游戏的进行，玩家将解锁更多的单位和技能，提升自己的战斗能力。",
+            "en_us": "In Tiny Clash, players can choose different units and tactics to face various challenges. Each battle requires players to flexibly apply strategies to achieve victory. As the game progresses, players will unlock more units and skills, enhancing their combat capabilities.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "43",
+            "key": "排序表情",
+            "en_us": "Sort Emoji",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "44",
+            "key": "排序表情是一款休闲益智游戏，玩家需要将不同的表情符号按照特定的规则进行排序。",
+            "en_us": "Sort Emoji is a casual puzzle game where players need to sort different emoji symbols according to specific rules.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "45",
+            "key": "在排序表情中，玩家将面临各种有趣的排序挑战，考验他们的逻辑思维和反应速度。游戏提供多种难度级别，适合不同年龄段的玩家。通过完成关卡，玩家可以解锁更多的表情符号，增加游戏的趣味性。",
+            "en_us": "In Sort Emoji, players will face various fun sorting challenges that test their logical thinking and reaction speed. The game offers multiple difficulty levels, suitable for players of all ages. By completing levels, players can unlock more emoji symbols, adding to the game's enjoyment.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "46",
+            "key": "表情末日",
+            "en_us": "Emoji Geddon",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "47",
+            "key": "表情末日是一款动作冒险游戏，玩家需要在充满挑战的环境中生存并战斗，使用各种表情符号作为武器。",
+            "en_us": "Emoji Geddon is an action-adventure game where players must survive and fight in a challenging environment, using various emoji symbols as weapons.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "48",
+            "key": "在表情末日中，玩家将探索一个充满敌对表情的世界，面对各种各样的挑战和敌人。游戏结合了快节奏的战斗和策略元素，玩家需要灵活运用不同的表情符号来击败敌人。随着游戏的进展，玩家可以解锁新的表情武器和技能，提升自己的战斗能力。",
+            "en_us": "In Emoji Geddon, players will explore a world filled with hostile emojis, facing a variety of challenges and enemies. The game combines fast-paced combat with strategic elements, requiring players to flexibly use different emoji symbols to defeat foes. As the game progresses, players can unlock new emoji weapons and skills, enhancing their combat abilities.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "49",
+            "key": "人群战斗",
+            "en_us": "Crowd Fighting",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "50",
+            "key": "人群战斗是一款多人对战游戏，玩家需要在动态的战斗场景中与其他玩家进行激烈的对抗。",
+            "en_us": "Crowd Fighting is a multiplayer battle game where players engage in intense confrontations with others in dynamic combat scenarios.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "51",
+            "key": "在游戏《人群战斗》中，玩家可以选择不同的角色和技能，参与到激烈的战斗中。游戏的场景设计多样，提供了丰富的战斗体验和策略选择。通过不断的战斗，玩家可以提升自己的角色能力，解锁更多的技能和装备。",
+            "en_us": " players can choose different characters and skills to engage in intense battles. The diverse scene designs offer a rich combat experience and strategic choices. Through continuous fighting, players can enhance their character abilities and unlock more skills and equipment.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "52",
+            "key": "射箭俱乐部2",
+            "en_us": "Archery Club 2",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "53",
+            "key": "射箭俱乐部2是一款射箭模拟游戏，玩家可以在各种环境中测试自己的射箭技巧，并与其他玩家进行比赛。",
+            "en_us": "Archery Club 2 is an archery simulation game where players can test their shooting skills in various environments and compete against other players.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "54",
+            "key": "在射箭俱乐部2中，玩家可以选择不同的弓箭和装备，参与到多样化的射箭挑战中。游戏提供了真实的物理引擎，玩家需要掌握风速和角度等因素，以提高命中率。通过不断练习和比赛，玩家可以解锁新的装备和成就，提升自己的射箭水平。",
+            "en_us": "In Archery Club 2, players can choose different bows and equipment to participate in a variety of archery challenges. The game features a realistic physics engine, requiring players to master factors like wind speed and angle to improve their accuracy. Through continuous practice and competition, players can unlock new gear and achievements, enhancing their archery skills.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "55",
+            "key": "漂移狂热",
+            "en_us": "Drifting Mania",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "56",
+            "key": "漂移狂热是一款赛车游戏，玩家可以在各种赛道上展示自己的漂移技巧，挑战其他赛车手。",
+            "en_us": "Drifting Mania is a racing game where players can showcase their drifting skills on various tracks and challenge other racers.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "57",
+            "key": "在漂移狂热中，玩家可以选择不同的赛车和改装选项，以提升自己的漂移性能。游戏提供了多种赛道和环境，玩家需要灵活应对不同的驾驶条件。通过赢得比赛和完成挑战，玩家可以解锁新的赛车和升级，提升自己的漂移体验。",
+            "en_us": "In Drifting Mania, players can choose different cars and customization options to enhance their drifting performance. The game offers various tracks and environments, requiring players to adapt to different driving conditions. By winning races and completing challenges, players can unlock new cars and upgrades, enhancing their drifting experience.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "58",
+            "key": "维京酒吧",
+            "en_us": "Viking Pub",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "59",
+            "key": "维京酒吧是一款模拟经营游戏，玩家需要管理自己的酒吧，吸引顾客并提供各种饮品和食物。",
+            "en_us": "Viking Pub is a simulation management game where players need to run their own pub, attract customers, and serve a variety of drinks and food.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "60",
+            "key": "在维京酒吧中，玩家将体验到经营酒吧的乐趣，设计酒吧的布局和装饰，以吸引更多的顾客。游戏中有多种饮品和食物可供选择，玩家需要根据顾客的需求进行调整。通过不断提升酒吧的声誉和服务质量，玩家可以解锁新的菜单和装饰，打造独特的酒吧体验。",
+            "en_us": "In Viking Pub, players will experience the fun of running a pub, designing the layout and decor to attract more customers. The game offers a variety of drinks and food options, requiring players to adjust based on customer demands. By continuously improving the pub's reputation and service quality, players can unlock new menu items and decorations, creating a unique pub experience.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "61",
+            "key": "速度计数3D",
+            "en_us": "Count Speed 3D",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "62",
+            "key": "速度计数3D是一款益智游戏，玩家需要在三维环境中快速计算和反应，完成各种计数挑战。",
+            "en_us": "Count Speed 3D is a puzzle game where players must quickly calculate and react in a 3D environment to complete various counting challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "63",
+            "key": "在速度计数3D中，玩家将面临一系列快速变化的计数任务，考验他们的计算能力和反应速度。游戏的三维视觉效果使挑战更加生动有趣，玩家需要在限定时间内做出正确的计算。通过完成关卡，玩家可以解锁新的挑战和获得奖励，提升自己的游戏技能。",
+            "en_us": "In Count Speed 3D, players will face a series of rapidly changing counting tasks that test their calculation abilities and reaction speed. The 3D visual effects make the challenges more vivid and engaging, requiring players to make accurate calculations within a limited time. By completing levels, players can unlock new challenges and earn rewards, enhancing their gaming skills.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "64",
+            "key": "牙医博士",
+            "en_us": "Doctor Teeth",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "65",
+            "key": "牙医博士是一款模拟游戏，玩家将扮演牙医，帮助患者解决各种牙齿问题，提供治疗和护理。",
+            "en_us": "Doctor Teeth is a simulation game where players take on the role of a dentist, helping patients solve various dental issues and providing treatment and care.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "66",
+            "key": "在牙医博士中，玩家需要使用各种牙科工具和技术，诊断患者的牙齿问题并进行治疗。游戏提供了多种病例和挑战，玩家需要根据患者的需求制定合适的治疗方案。通过成功治疗患者，玩家可以解锁新的工具和设备，提升自己的牙医技能。",
+            "en_us": "In Doctor Teeth, players must use various dental tools and techniques to diagnose patients' dental issues and provide treatment. The game offers a variety of cases and challenges, requiring players to develop appropriate treatment plans based on patient needs. By successfully treating patients, players can unlock new tools and equipment, enhancing their dental skills.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "67",
+            "key": "蜂巢冲突",
+            "en_us": "Clash Of Hive",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "68",
+            "key": "蜂巢冲突是一款策略游戏，玩家需要建立和管理自己的蜂巢，招募蜜蜂并与其他玩家进行战斗。",
+            "en_us": "Clash Of Hive is a strategy game where players build and manage their own hive, recruit bees, and battle against other players.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "69",
+            "key": "在蜂巢冲突中，玩家将体验到建立蜂巢的乐趣，合理分配资源以招募不同类型的蜜蜂。游戏中有多种战斗策略可供选择，玩家需要根据对手的特点制定战术。通过赢得战斗和完成任务，玩家可以解锁新的蜜蜂种类和升级，增强自己的蜂巢实力。",
+            "en_us": "In Clash Of Hive, players will experience the fun of building a hive, allocating resources wisely to recruit different types of bees. The game offers various battle strategies, requiring players to devise tactics based on their opponents' characteristics. By winning battles and completing tasks, players can unlock new bee species and upgrades, strengthening their hive's power.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "70",
+            "key": "方块小队",
+            "en_us": "Blocky Squad",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "71",
+            "key": "方块小队是一款多人在线射击游戏，玩家可以组建自己的方块角色，与其他玩家进行激烈的战斗。",
+            "en_us": "Blocky Squad is a multiplayer online shooting game where players can create their own block characters and engage in intense battles with others.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "72",
+            "key": "在方块小队中，玩家可以自定义角色的外观和武器，参与到各种战斗模式中。游戏提供了丰富的地图和环境，玩家需要灵活运用战术来击败对手。通过不断的战斗和胜利，玩家可以解锁新的武器和角色，提升自己的战斗能力。",
+            "en_us": "In Blocky Squad, players can customize their character's appearance and weapons to participate in various battle modes. The game offers a variety of maps and environments, requiring players to use tactics flexibly to defeat opponents. Through continuous battles and victories, players can unlock new weapons and characters, enhancing their combat abilities.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "73",
+            "key": "自由火力",
+            "en_us": "Free Fire",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "74",
+            "key": "自由火力是一款多人在线生存射击游戏，玩家在一个孤岛上与其他玩家竞争，争夺生存和胜利。",
+            "en_us": "Free Fire is a multiplayer online survival shooting game where players compete against each other on an island, fighting for survival and victory.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "75",
+            "key": "在自由火力中，玩家可以选择不同的角色和武器，跳伞降落到岛屿上，寻找装备和资源。游戏提供了多种战斗模式和地图，玩家需要灵活应对不断缩小的安全区和其他玩家的威胁。通过战斗和策略，玩家可以成为最后的幸存者，赢得比赛。",
+            "en_us": "In Free Fire, players can choose different characters and weapons, parachuting onto the island to search for gear and resources. The game offers various battle modes and maps, requiring players to adapt to the shrinking safe zone and threats from other players. Through combat and strategy, players can become the last survivor and win the match.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "76",
+            "key": "战斗天使",
+            "en_us": "Battle Angel",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "77",
+            "key": "这是一款结合了动作与冒险元素的游戏，玩家将化身为一个强大的战斗天使，努力拯救被黑暗势力侵袭的世界。",
+            "en_us": "This is a game that combines action and adventure elements, where players take on the role of a powerful battle angel striving to save a world besieged by dark forces.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "78",
+            "key": "在“战斗天使”中，玩家将探索一个宏大的开放世界，面对各种敌人和挑战，提升自己的技能与装备。随着故事的推进，玩家揭开隐藏在黑暗势力背后的秘密，并与各类角色互动，体验丰富的剧情发展。最终，玩家将面临关键选择，这些选择将直接影响游戏的结局和世界的命运。",
+            "en_us": "In “Battle Angel,” players will explore a vast open world, facing various enemies and challenges while enhancing their skills and equipment. As the story progresses, players uncover the secrets hidden behind the dark forces and interact with various characters, experiencing a rich narrative development. Ultimately, players will confront crucial choices that directly impact the game’s ending and the fate of the world.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "79",
+            "key": "布娃娃坠落",
+            "en_us": "Ragdoll Fall",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "80",
+            "key": "这是一款物理驱动的休闲游戏，玩家需要控制布娃娃在各种障碍物间自由坠落并完成挑战。",
+            "en_us": "This is a physics-driven casual game where players control a ragdoll to freely fall through various obstacles and complete challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "81",
+            "key": "在“布娃娃坠落”中，玩家将面对各种独特的关卡，利用物理引擎的特性来克服障碍和陷阱。游戏中的布娃娃动作生动有趣，玩家可以体验到轻松搞笑的游戏乐趣。随着关卡的逐渐增加，挑战也会变得更加复杂，考验玩家的反应能力和策略。",
+            "en_us": " In “Ragdoll Fall,” players will encounter a variety of unique levels, utilizing the physics engine’s characteristics to overcome obstacles and traps. The ragdoll’s movements are lively and amusing, providing players with a light-hearted and humorous gaming experience. As the levels progress, the challenges become increasingly complex, testing players’ reflexes and strategies.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "82",
+            "key": "橡皮擦她",
+            "en_us": "Eraser Her",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "83",
+            "key": "这是一款具有创意和策略的游戏，玩家需要使用各种工具来消除目标物体并解锁新关卡。",
+            "en_us": "This is a creative and strategic game where players must use various tools to erase target objects and unlock new levels.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "84",
+            "key": "在“橡皮擦她”中，玩家将面临一系列富有挑战性的关卡，每个关卡都需要巧妙地运用橡皮擦和其他工具来解决难题。游戏中的每个物体都有独特的特性，玩家需通过观察和思考来找到最佳的解决方案。随着游戏的进展，关卡的难度和复杂性逐渐增加，带来更多的乐趣和挑战。",
+            "en_us": "In “Eraser Her,” players will encounter a series of challenging levels, each requiring clever use of erasers and other tools to solve puzzles. Every object in the game has unique characteristics, and players must observe and think to find the best solution. As the game progresses, the difficulty and complexity of the levels increase, providing even more fun and challenges.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "85",
+            "key": "跳高游戏",
+            "en_us": "High Jump Game",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "86",
+            "key": "这是一款简单而富有挑战性的游戏，玩家需要控制角色跳跃，尽可能地达到更高的高度。",
+            "en_us": "This is a simple yet challenging game where players must control their character to jump as high as possible.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "87",
+            "key": "在“跳高游戏”中，玩家将面临不断上升的障碍和平台，必须精准地把握时机以实现完美跳跃。游戏的节奏快速而紧张，考验玩家的反应能力和控制技巧。随着游戏的进行，难度逐渐增加，玩家将体验到越来越多的挑战和乐趣。",
+            "en_us": "In “High Jump Game,” players will face rising obstacles and platforms, needing to time their jumps perfectly for success. The game’s pace is fast and tense, testing players’ reflexes and control skills. As the game progresses, the difficulty increases gradually, offering players more challenges and enjoyment.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "88",
+            "key": "风暴破坏者",
+            "en_us": "Storm Breaker",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "89",
+            "key": "这是一款动作冒险游戏，玩家将化身为勇敢的战士，与风暴和敌人作斗争，拯救被摧毁的世界。",
+            "en_us": "This is an action-adventure game where players take on the role of a brave warrior, battling storms and enemies to save a devastated world.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }, {
+            "_id": "90",
+            "key": "在“风暴破坏者”中，玩家将探索一个充满挑战的开放世界，解锁强大的技能和装备以对抗各种敌人。游戏结合了战斗和解谜元素，玩家不仅需要战胜强敌，还要解决环境中的难题。随着剧情的发展，玩家将逐渐揭开风暴背后的真相，并为恢复世界的和平而奋斗。",
+            "en_us": "In “Storm Breaker,” players will explore a challenging open world, unlocking powerful skills and gear to combat various foes. The game combines combat and puzzle-solving elements, requiring players to overcome fierce enemies while tackling environmental challenges. As the story unfolds, players will gradually uncover the truth behind the storm and fight to restore peace to the world.",
+            "id": "",
+            "pt_br": "",
+            "vi": ""
+        }
+       
+    ],
+    "GameConfigs": [
+        {
+            "_id": "1",
+            "name": "卡尔马克斯的防御",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5547/DefenceofKarmax/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5547/DefenceofKarmax/index.html",
+            "icon": "resources/images/gameIcons/icon-1702882069-1520.png",
+            "screenShoots": [
+                "resources/images/screenShoot/DefenceofKarmax/1.jpg",
+                "resources/images/screenShoot/DefenceofKarmax/2.jpg",
+                "resources/images/screenShoot/DefenceofKarmax/3.jpg"
+            ],
+            "subTitle": "这是一款塔防游戏，玩家需要建立和升级塔来抵御敌人的攻击。",
+            "desc": "在卡尔马克斯世界中，玩家面临越来越强大的敌人。通过战略性地放置防御塔，玩家创建强大的防线以保护自己的领地。您可以选择多种不同的塔和升级，制定最佳策略来阻止敌人突破。"
+        },  {
+            "_id": "2",
+            "name": "气球",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5545/Balloon/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5545/Balloon/index.html",
+            "icon": "resources/images/gameIcons/icon-1702882063-6648.png",
+            "screenShoots": [
+                "resources/images/screenShoot/Balloon/1.jpg",
+                "resources/images/screenShoot/Balloon/2.jpg",
+                "resources/images/screenShoot/Balloon/3.jpg"
+            ],
+            "subTitle": "在这个简单的游戏中，玩家需要通过点击屏幕来让气球飞得更高。",
+            "desc": "气球游戏考验你的反应速度和技巧。每次点击都会让气球升得更高，但要小心避开障碍物，否则会导致失败。挑战自己设定的高分，看看你能飞多高！"
+        }, {
+            "_id": "3",
+            "name": "太空袭击",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5544/SpaceAttack/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5544/SpaceAttack/index.html",
+            "icon": "resources/images/gameIcons/icon-1702882060-5296.png",
+            "screenShoots": [
+                "resources/images/screenShoot/SpaceAttack/1.jpg",
+                "resources/images/screenShoot/SpaceAttack/2.jpg",
+                "resources/images/screenShoot/SpaceAttack/3.jpg"
+            ],
+            "subTitle": "这是一款射击游戏，玩家在太空中对抗敌舰，拯救宇宙。",
+            "desc": "在太空袭击游戏中，玩家将驾驶太空飞船，面对成群的敌舰。通过精准的射击和快速的反应，您可以打败敌人，保护宇宙的和平。升级您的武器和飞船，以应对越来越困难的挑战。"
+        }, {
+            "_id": "4",
+            "name": "复活节狂奔",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5543/EasterRush/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5543/EasterRush/index.html",
+            "icon": "resources/images/gameIcons/icon-5b23308c3e09ad6fb586e156d152ac3d.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/EasterRush/1.jpg",
+                "resources/images/screenShoot/EasterRush/2.jpg",
+                "resources/images/screenShoot/EasterRush/3.jpg"
+            ],
+            "subTitle": "在复活节狂奔中，玩家需要收集彩蛋并避开障碍物。",
+            "desc": "复活节狂奔是一个充满乐趣和挑战的跑酷游戏。玩家将在五彩斑斓的场景中奔跑，收集尽可能多的彩蛋。随着游戏的进展，难度逐渐提高，保持警惕以避免障碍物。"
+        }, {
+            "_id": "5",
+            "name": "史诗雪人",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5542/EpicSnowman/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5542/EpicSnowman/index.html",
+            "icon": "resources/images/gameIcons/icon-1702882029-3574.png",
+            "screenShoots": [
+                "resources/images/screenShoot/EpicSnowman/1.jpg",
+                "resources/images/screenShoot/EpicSnowman/2.jpg",
+                "resources/images/screenShoot/EpicSnowman/3.jpg"
+            ],
+            "subTitle": "这是一款益智游戏，玩家需要帮助雪人完成各种任务。",
+            "desc": "在史诗雪人游戏中，玩家将面临各种极具创意的难题。运用你的智慧帮助雪人克服障碍，收集配件来提升他的能力。每个关卡都提供了独特的挑战，确保你享受游戏的每一刻。"
+        }, {
+            "_id": "6",
+            "name": "螺旋坠落",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5536/HelixFall/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5536/HelixFall/index.html",
+            "icon": "resources/images/gameIcons/icon-HelixFall.png",
+            "screenShoots": [
+                "resources/images/screenShoot/HelixFall/1.jpg",
+                "resources/images/screenShoot/HelixFall/2.jpg",
+                "resources/images/screenShoot/HelixFall/3.jpg"
+            ],
+            "subTitle": "玩家需要控制小球通过螺旋塔，避免碰到障碍。",
+            "desc": "在螺旋坠落中，玩家将面临快速的反应挑战。您需要准确控制小球的下落，确保它穿过每一层而不碰到障碍。随着关卡的进展，游戏会变得更加复杂，增加了挑战的乐趣。"
+        }, {
+            "_id": "7",
+            "name": "摩托X3M",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5534/MotoX3M5PoolParty/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5534/MotoX3M5PoolParty/index.html",
+            "icon": "resources/images/gameIcons/icon-MotoX3M.png",
+            "screenShoots": [
+                "resources/images/screenShoot/MotoX3M5PoolParty/1.jpg",
+                "resources/images/screenShoot/MotoX3M5PoolParty/2.jpg",
+                "resources/images/screenShoot/MotoX3M5PoolParty/3.jpg"
+            ],
+            "subTitle": "在这个摩托车特技游戏中，玩家需要完成各种挑战。",
+            "desc": "摩托X3M 5游泳池派对让玩家体验刺激的摩托车特技。通过充满挑战的赛道，玩家需要展示自身的驾驶技巧，完成各种令人兴奋的特技。在每个关卡中尽量争取获得更快的时间和更高的分数。"
+        }, {
+            "_id": "8",
+            "name": "飞行员训练",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5532/PilotTraining/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5532/PilotTraining/index.html",
+            "icon": "resources/images/gameIcons/icon-PilotTraining.png",
+            "screenShoots": [
+                "resources/images/screenShoot/PilotTraining/1.jpg",
+                "resources/images/screenShoot/PilotTraining/2.jpg",
+                "resources/images/screenShoot/PilotTraining/3.jpg"
+            ],
+            "subTitle": "玩家将接受飞行训练，学习如何驾驶飞机。",
+            "desc": "在飞行员训练中，玩家将学习基础的飞行技巧和操作。通过一系列训练任务，从如何起飞到安全降落，您将掌握飞行的所有要素。掌握技巧后，您将准备好驾驶各种类型的飞机。"
+        }, {
+            "_id": "9",
+            "name": "滚动这个球",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5531/RollThisBall/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5531/RollThisBall/index.html",
+            "icon": "resources/images/gameIcons/icon-RollThisBall.png",
+            "screenShoots": [
+                "resources/images/screenShoot/RollThisBall/1.jpg",
+                "resources/images/screenShoot/RollThisBall/2.jpg",
+                "resources/images/screenShoot/RollThisBall/3.jpg"
+            ],
+            "subTitle": "这是一个物理益智游戏，玩家要滚动球到达目标位置",
+            "desc": "在滚动这个球的游戏中，玩家必须运用物理原理来解决难题。每一关都有不同的挑战，玩家需要规划球的路径，确保它安全到达目标。随着关卡的提高，难度也逐渐增加。"
+        }, {
+            "_id": "10",
+            "name": "短跑俱乐部",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5530/SprintClub/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5530/SprintClub/index.html",
+            "icon": "resources/images/gameIcons/icon-SprintClub.png",
+            "screenShoots": [
+                "resources/images/screenShoot/SprintClub/1.jpg",
+                "resources/images/screenShoot/SprintClub/2.jpg",
+                "resources/images/screenShoot/SprintClub/3.jpg"
+            ],
+            "banner": "resources/images/gameIcons/icon-SprintClub.png",
+            "subTitle": "这是一个竞速游戏，玩家需要与其他角色竞争，取得胜利。",
+            "desc": "短跑俱乐部为玩家提供了激动人心的竞速体验。与其他角色并肩作战，展现你最好的速度和反应能力。通过不断的练习和挑战，提升自己的技能和速度，争取成为短跑之王！"
+        }, {
+            "_id": "11",
+            "name": "超级马里奥",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5528/SuperMario/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5528/SuperMario/index.html",
+            "icon": "resources/images/gameIcons/icon-SuperMario.png",
+            "screenShoots": [
+                "resources/images/screenShoot/SuperMario/1.jpg",
+                "resources/images/screenShoot/SuperMario/2.jpg",
+                "resources/images/screenShoot/SuperMario/3.jpg"
+            ],
+            "banner": "resources/images/gameIcons/icon-SuperMario.png",
+            "subTitle": "超级马里奥是一款经典的平台跳跃游戏，玩家帮助马里奥拯救公主。",
+            "desc": "在超级马里奥的世界中，玩家将踏上拯救公主的冒险旅程。通过跳跃、收集金币和击败敌人，玩家可以探索各种多彩的关卡。这个游戏充满了乐趣和挑战，让玩家沉浸在马里奥的奇妙世界中。"
+        }, {
+            "_id": "12",
+            "name": "冲浪弓箭手",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5527/SurferArchers/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5527/SurferArchers/index.html",
+            "icon": "resources/images/gameIcons/icon-SurferArchers.png",
+            "screenShoots": [
+                "resources/images/screenShoot/SurferArchers/1.jpg",
+                "resources/images/screenShoot/SurferArchers/2.jpg",
+                "resources/images/screenShoot/SurferArchers/3.jpg"
+            ],
+            "banner": "resources/images/gameIcons/icon-SurferArchers.png",
+            "subTitle": "在这个游戏中，玩家扮演冲浪者利用弓箭射击敌人。",
+            "desc": "冲浪弓箭手是一款结合了冲浪和射击的独特游戏体验。玩家在海浪上冲浪，同时用弓箭抵御来袭的敌人。灵活的操作和精准的射击是获得胜利的关键。"
+        }, {
+            "_id": "13",
+            "name": "解开绳索",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://topstorieshub.store/cdn/newgames/5525/Untietherope/index.html",
+            "gameUrl": "https://topstorieshub.store/cdn/newgames/5525/Untietherope/index.html",
+            "icon": "resources/images/gameIcons/icon-UntietheRope.png",
+            "screenShoots": [
+                "resources/images/screenShoot/Untietherope/1.jpg",
+                "resources/images/screenShoot/Untietherope/2.jpg",
+                "resources/images/screenShoot/Untietherope/3.jpg"
+            ],
+            "subTitle": "在这个益智游戏中，玩家需要解开绳子以释放物体",
+            "desc": "解开绳索是一个富有挑战性的益智游戏，要求玩家运用逻辑思维。每一关都有不同的绳结，玩家需要找到最有效的解法来释放被困的物体。随着每个关卡的推进，难度会逐渐增加。"
+        }, {
+            "_id": "14",
+            "name": "微型冲突",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/TinyClash/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/TinyClash/index.html",
+            "icon": "resources/images/gameIcons/icon-TinyClash.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/TinyClash/1.jpg",
+                "resources/images/screenShoot/TinyClash/2.jpg",
+                "resources/images/screenShoot/TinyClash/3.jpg"
+            ],
+            "subTitle": "微型冲突是一款策略类游戏，玩家需要在小型战场上指挥自己的单位进行战斗。",
+            "desc": "在微型冲突中，玩家可以选择不同的单位和战术，以应对各种挑战。游戏的每一场战斗都需要玩家灵活运用策略，才能获得胜利。随着游戏的进行，玩家将解锁更多的单位和技能，提升自己的战斗能力。"
+        }, {
+            "_id": "15",
+            "name": "排序表情",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/SortEmoji/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/SortEmoji/index.html",
+            "icon": "resources/images/gameIcons/icon-sort-emoji-735.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/SortEmoji/1.jpg",
+                "resources/images/screenShoot/SortEmoji/2.jpg",
+                "resources/images/screenShoot/SortEmoji/3.jpg"
+            ],
+            "subTitle": "排序表情是一款休闲益智游戏，玩家需要将不同的表情符号按照特定的规则进行排序。",
+            "desc": "在排序表情中，玩家将面临各种有趣的排序挑战，考验他们的逻辑思维和反应速度。游戏提供多种难度级别，适合不同年龄段的玩家。通过完成关卡，玩家可以解锁更多的表情符号，增加游戏的趣味性。"
+        }, {
+            "_id": "16",
+            "name": "表情末日",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/EmojiGeddon/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/EmojiGeddon/index.html",
+            "icon": "resources/images/gameIcons/icon-EmojiGeddon.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/EmojiGeddon/1.jpg",
+                "resources/images/screenShoot/EmojiGeddon/2.jpg",
+                "resources/images/screenShoot/EmojiGeddon/3.jpg"
+            ],
+            "subTitle": "表情末日是一款动作冒险游戏，玩家需要在充满挑战的环境中生存并战斗，使用各种表情符号作为武器。",
+            "desc": "在表情末日中，玩家将探索一个充满敌对表情的世界，面对各种各样的挑战和敌人。游戏结合了快节奏的战斗和策略元素，玩家需要灵活运用不同的表情符号来击败敌人。随着游戏的进展，玩家可以解锁新的表情武器和技能，提升自己的战斗能力。"
+        }, {
+            "_id": "17",
+            "name": "人群战斗",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/CrowdFighting/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/CrowdFighting/index.html",
+            "icon": "resources/images/gameIcons/icon-crowd-fighting-740.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/CrowdFighting/1.jpg",
+                "resources/images/screenShoot/CrowdFighting/2.jpg",
+                "resources/images/screenShoot/CrowdFighting/3.jpg"
+            ],
+            "subTitle": "人群战斗是一款多人对战游戏，玩家需要在动态的战斗场景中与其他玩家进行激烈的对抗。",
+            "desc": "在游戏《人群战斗》中，玩家可以选择不同的角色和技能，参与到激烈的战斗中。游戏的场景设计多样，提供了丰富的战斗体验和策略选择。通过不断的战斗，玩家可以提升自己的角色能力，解锁更多的技能和装备。"
+        }, {
+            "_id": "18",
+            "name": "射箭俱乐部2",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/ArcheryClub2/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/ArcheryClub2/index.html",
+            "icon": "resources/images/gameIcons/icon-archery-club-2-745.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/ArcheryClub2/1.jpg",
+                "resources/images/screenShoot/ArcheryClub2/2.jpg",
+                "resources/images/screenShoot/ArcheryClub2/3.jpg"
+            ],
+            "subTitle": "射箭俱乐部2是一款射箭模拟游戏，玩家可以在各种环境中测试自己的射箭技巧，并与其他玩家进行比赛。",
+            "desc": "在射箭俱乐部2中，玩家可以选择不同的弓箭和装备，参与到多样化的射箭挑战中。游戏提供了真实的物理引擎，玩家需要掌握风速和角度等因素，以提高命中率。通过不断练习和比赛，玩家可以解锁新的装备和成就，提升自己的射箭水平。"
+        }, {
+            "_id": "19",
+            "name": "漂移狂热",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/DriftingMania/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/DriftingMania/index.html",
+            "icon": "resources/images/gameIcons/icon-drifting-mania-747.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/DriftingMania/1.jpg",
+                "resources/images/screenShoot/DriftingMania/2.jpg",
+                "resources/images/screenShoot/DriftingMania/3.jpg"
+            ],
+            "subTitle": "漂移狂热是一款赛车游戏，玩家可以在各种赛道上展示自己的漂移技巧，挑战其他赛车手。",
+            "desc": "在漂移狂热中，玩家可以选择不同的赛车和改装选项，以提升自己的漂移性能。游戏提供了多种赛道和环境，玩家需要灵活应对不同的驾驶条件。通过赢得比赛和完成挑战，玩家可以解锁新的赛车和升级，提升自己的漂移体验。"
+        }, {
+            "_id": "20",
+            "name": "维京酒吧",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/VikingPubs/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/VikingPubs/index.html",
+            "icon": "resources/images/gameIcons/icon-viking-pub-748.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/VikingPubs/1.jpg",
+                "resources/images/screenShoot/VikingPubs/2.jpg",
+                "resources/images/screenShoot/VikingPubs/3.jpg"
+            ],
+            "subTitle": "维京酒吧是一款模拟经营游戏，玩家需要管理自己的酒吧，吸引顾客并提供各种饮品和食物。",
+            "desc": "在维京酒吧中，玩家将体验到经营酒吧的乐趣，设计酒吧的布局和装饰，以吸引更多的顾客。游戏中有多种饮品和食物可供选择，玩家需要根据顾客的需求进行调整。通过不断提升酒吧的声誉和服务质量，玩家可以解锁新的菜单和装饰，打造独特的酒吧体验。"
+        }, {
+            "_id": "21",
+            "name": "速度计数3D",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/CountSpeed3D2/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/CountSpeed3D2/index.html",
+            "icon": "resources/images/gameIcons/icon-count-speed-3d-749.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/CountSpeed3D2/1.jpg",
+                "resources/images/screenShoot/CountSpeed3D2/2.jpg",
+                "resources/images/screenShoot/CountSpeed3D2/3.jpg"
+            ],
+            "subTitle": "速度计数3D是一款益智游戏，玩家需要在三维环境中快速计算和反应，完成各种计数挑战。",
+            "desc": "在速度计数3D中，玩家将面临一系列快速变化的计数任务，考验他们的计算能力和反应速度。游戏的三维视觉效果使挑战更加生动有趣，玩家需要在限定时间内做出正确的计算。通过完成关卡，玩家可以解锁新的挑战和获得奖励，提升自己的游戏技能。"
+        }, {
+            "_id": "22",
+            "name": "牙医博士",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/DoctorTeeth2/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/DoctorTeeth2/index.html",
+            "icon": "resources/images/gameIcons/icon-doctor-teeth-751.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/DoctorTeeth2/1.jpg",
+                "resources/images/screenShoot/DoctorTeeth2/2.jpg",
+                "resources/images/screenShoot/DoctorTeeth2/3.jpg"
+            ],
+            "subTitle": "牙医博士是一款模拟游戏，玩家将扮演牙医，帮助患者解决各种牙齿问题，提供治疗和护理。",
+            "desc": "在牙医博士中，玩家需要使用各种牙科工具和技术，诊断患者的牙齿问题并进行治疗。游戏提供了多种病例和挑战，玩家需要根据患者的需求制定合适的治疗方案。通过成功治疗患者，玩家可以解锁新的工具和设备，提升自己的牙医技能。"
+        }, {
+            "_id": "23",
+            "name": "蜂巢冲突",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/ClashOfHive/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/ClashOfHive/index.html",
+            "icon": "resources/images/gameIcons/icon-clash-of-hive-754.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/ClashOfHive/1.jpg",
+                "resources/images/screenShoot/ClashOfHive/2.jpg",
+                "resources/images/screenShoot/ClashOfHive/3.jpg"
+            ],
+            "subTitle": "蜂巢冲突是一款策略游戏，玩家需要建立和管理自己的蜂巢，招募蜜蜂并与其他玩家进行战斗。",
+            "desc": "在蜂巢冲突中，玩家将体验到建立蜂巢的乐趣，合理分配资源以招募不同类型的蜜蜂。游戏中有多种战斗策略可供选择，玩家需要根据对手的特点制定战术。通过赢得战斗和完成任务，玩家可以解锁新的蜜蜂种类和升级，增强自己的蜂巢实力。"
+        }, {
+            "_id": "24",
+            "name": "方块小队",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/BlockySquads/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/BlockySquads/index.html",
+            "icon": "resources/images/gameIcons/icon-blocky-squad-756.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/BlockySquads/1.jpg",
+                "resources/images/screenShoot/BlockySquads/2.jpg",
+                "resources/images/screenShoot/BlockySquads/3.jpg"
+            ],
+            "subTitle": "方块小队是一款多人在线射击游戏，玩家可以组建自己的方块角色，与其他玩家进行激烈的战斗。",
+            "desc": "在方块小队中，玩家可以自定义角色的外观和武器，参与到各种战斗模式中。游戏提供了丰富的地图和环境，玩家需要灵活运用战术来击败对手。通过不断的战斗和胜利，玩家可以解锁新的武器和角色，提升自己的战斗能力。"
+        }, {
+            "_id": "26",
+            "name": "战斗天使",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/BattleAngel/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/BattleAngel/index.html",
+            "icon": "resources/images/gameIcons/icon-battle-angel-772.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/BattleAngel/1.jpg",
+                "resources/images/screenShoot/BattleAngel/2.jpg",
+                "resources/images/screenShoot/BattleAngel/3.jpg"
+            ],
+            "subTitle": "这是一款结合了动作与冒险元素的游戏，玩家将化身为一个强大的战斗天使，努力拯救被黑暗势力侵袭的世界。",
+            "desc": "在“战斗天使”中，玩家将探索一个宏大的开放世界，面对各种敌人和挑战，提升自己的技能与装备。随着故事的推进，玩家揭开隐藏在黑暗势力背后的秘密，并与各类角色互动，体验丰富的剧情发展。最终，玩家将面临关键选择，这些选择将直接影响游戏的结局和世界的命运。"
+        }, {
+            "_id": "27",
+            "name": "布娃娃坠落",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/RagdollFall/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/RagdollFall/index.html",
+            "icon": "resources/images/gameIcons/icon-ragdoll-fall-774.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/RagdollFall/1.jpg",
+                "resources/images/screenShoot/RagdollFall/2.jpg",
+                "resources/images/screenShoot/RagdollFall/3.jpg"
+            ],
+            "subTitle": "这是一款物理驱动的休闲游戏，玩家需要控制布娃娃在各种障碍物间自由坠落并完成挑战。",
+            "desc": "在“布娃娃坠落”中，玩家将面对各种独特的关卡，利用物理引擎的特性来克服障碍和陷阱。游戏中的布娃娃动作生动有趣，玩家可以体验到轻松搞笑的游戏乐趣。随着关卡的逐渐增加，挑战也会变得更加复杂，考验玩家的反应能力和策略。"
+        }, {
+            "_id": "28",
+            "name": "橡皮擦她",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/EraserHer/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/EraserHer/index.html",
+            "icon": "resources/images/gameIcons/icon-eraser-her-782.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/EraserHer/1.jpg",
+                "resources/images/screenShoot/EraserHer/2.jpg",
+                "resources/images/screenShoot/EraserHer/3.jpg"
+            ],
+            "subTitle": "这是一款具有创意和策略的游戏，玩家需要使用各种工具来消除目标物体并解锁新关卡。",
+            "desc": "在“橡皮擦她”中，玩家将面临一系列富有挑战性的关卡，每个关卡都需要巧妙地运用橡皮擦和其他工具来解决难题。游戏中的每个物体都有独特的特性，玩家需通过观察和思考来找到最佳的解决方案。随着游戏的进展，关卡的难度和复杂性逐渐增加，带来更多的乐趣和挑战。"
+        }, {
+            "_id": "29",
+            "name": "跳高游戏",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/HighJumpGam/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/HighJumpGam/index.html",
+            "icon": "resources/images/gameIcons/icon-high-jump-game-785.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/HighJumpGam/1.jpg",
+                "resources/images/screenShoot/HighJumpGam/2.jpg",
+                "resources/images/screenShoot/HighJumpGam/3.jpg"
+            ],
+            "subTitle": "这是一款简单而富有挑战性的游戏，玩家需要控制角色跳跃，尽可能地达到更高的高度。",
+            "desc": "在“跳高游戏”中，玩家将面临不断上升的障碍和平台，必须精准地把握时机以实现完美跳跃。游戏的节奏快速而紧张，考验玩家的反应能力和控制技巧。随着游戏的进行，难度逐渐增加，玩家将体验到越来越多的挑战和乐趣。"
+        }, {
+            "_id": "30",
+            "name": "风暴破坏者",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://majorleaguegame.top/cdn/L-h5games/H5_games/StormBreaker/index.html",
+            "gameUrl": "https://majorleaguegame.top/cdn/L-h5games/H5_games/StormBreaker/index.html",
+            "icon": "resources/images/gameIcons/icon-StormBreaker.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/StormBreaker/1.jpg",
+                "resources/images/screenShoot/StormBreaker/2.jpg",
+                "resources/images/screenShoot/StormBreaker/3.jpg"
+            ],
+            "subTitle": "这是一款动作冒险游戏，玩家将化身为勇敢的战士，与风暴和敌人作斗争，拯救被摧毁的世界。",
+            "desc": "在“风暴破坏者”中，玩家将探索一个充满挑战的开放世界，解锁强大的技能和装备以对抗各种敌人。游戏结合了战斗和解谜元素，玩家不仅需要战胜强敌，还要解决环境中的难题。随着剧情的发展，玩家将逐渐揭开风暴背后的真相，并为恢复世界的和平而奋斗。"
+        }
+      
+    ],
+    "HotGameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "2",
+            "name": "块块左右消",
+            "gameId": "4",
+            "sort": 4
+        },
+        {
+            "_id": "3",
+            "name": "合成大骰子",
+            "gameId": "5",
+            "sort": 5
+        },
+        {
+            "_id": "4",
+            "name": "合成小院",
+            "gameId": "6",
+            "sort": 6
+        },
+        {
+            "_id": "5",
+            "name": "方块消除大师",
+            "gameId": "7",
+            "sort": 7
+        },
+        {
+            "_id": "6",
+            "name": "植物对战僵尸",
+            "gameId": "30",
+            "sort": 8
+        },
+        {
+            "_id": "7",
+            "name": "最强躲猫猫",
+            "gameId": "9",
+            "sort": 9
+        },
+        {
+            "_id": "8",
+            "name": "麻将挪对对",
+            "gameId": "10",
+            "sort": 10
+        },
+        {
+            "_id": "9",
+            "name": "疯狂披萨店",
+            "gameId": "11",
+            "sort": 11
+        },
+        {
+            "_id": "10",
+            "name": "疯狂鸡大逃杀",
+            "gameId": "15",
+            "sort": 12
+        },
+        {
+            "_id": "11",
+            "name": "挪车大师",
+            "gameId": "33",
+            "sort": 3
+        },
+        {
+            "_id": "12",
+            "name": "坦克突袭",
+            "gameId": "26",
+            "sort": 3
+        }
+    ],
+    "TopGameConfigs": [
+        {
+            "_id": "30",
+            "name": "风暴破坏者",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "29",
+            "name": "跳高游戏",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "23",
+            "name": "蜂巢冲突",
+            "gameId": "1",
+            "sort": 3
+        }
+
+
+    ],
+    "BannerShowGameConfigs": [
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 1
+        },
+        {
+            "_id": "2",
+            "name": "麻将挪对对",
+            "gameId": "10",
+            "sort": 2
+        },
+        {
+            "_id": "3",
+            "name": "挪车大师",
+            "gameId": "33",
+            "sort": 3
+        },
+        {
+            "_id": "4",
+            "name": "植物对战僵尸",
+            "gameId": "30",
+            "sort": 4
+        },
+        {
+            "_id": "5",
+            "name": "合成大骰子",
+            "gameId": "5",
+            "sort": 5
+        }
+    ]
+}
